@@ -1,4 +1,4 @@
-# Predicting-Mortality-
+# Predicting-Mortality
 This project aims at determining the most important set of existing health pre-conditions that can determine mortality, based upon NHEFS study data.
 In particular, we train a series of tree-based regression models to predict survival time from clinical
 predictors in the NHEFS data set. We find that the model with the best performance on the test
